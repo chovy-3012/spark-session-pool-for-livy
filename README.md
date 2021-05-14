@@ -1,4 +1,4 @@
-# Session Pool For Livy
+# Livy Session Pool
 
 livy的session池子🌊
 
